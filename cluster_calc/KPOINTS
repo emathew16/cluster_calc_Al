@@ -1,0 +1,5 @@
+Automatic mesh (cubic sys) 	! comment line
+0				! 0=automatic, N=no. of k-points
+Monkhorst-Pack			! shifte from gamma point centered 
+6 6 6 			! subdivision of the grid
+0  0  0				! shift of the mesh
